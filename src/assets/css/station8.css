@@ -1,0 +1,41 @@
+header {
+    background-color: #ffffff;
+}
+
+body {
+    background-color: #C4C4C4;
+}
+
+footer {
+    background-color: #ffffff;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+li {
+    margin-right: 40px;
+}
+
+.card {
+    background: #fff;
+    padding: 5px;
+}
+.card__img-top {
+    height: 182px;
+    width: 288px;
+    margin-bottom: 5px;
+}
+.card__title {
+    color: #282828;
+    font-size: 14px;
+}
+.card__description {
+    color: #282828;
+    font-size: 12px;
+}
+
